@@ -1,0 +1,11 @@
+sklearn
+matplotlib
+pandas
+numpy
+scipy
+tensorflow-gpu
+
+ml_collections
+tqdm
+fbm
+sktime
